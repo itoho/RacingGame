@@ -8,7 +8,7 @@ import org.newdawn.slick.Graphics;
 import org.newdawn.slick.SlickException;
 
 /**
- * メインクラス.
+ * メインクラス.うぇーーーーーーー！
  * ウィンドウの生成及びゲームシーンの管理を行う.
  *
  * @author ryuryu
